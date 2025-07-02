@@ -6,7 +6,7 @@ function HeroSection() {
   return (
     <section
       id="home"
-      className="relative min-h-screen bg-gradient-to-br  bg-[#0F172A] text-white px-6 sm:px-12 flex items-center justify-center mt-16 pt-4"
+      className="relative min-h-screen bg-gradient-to-br from-[#1B1F3B] via-[#0F172A] to-[#2A2F5A] text-white px-6 sm:px-12 flex items-center justify-center mt-16 pt-4"
     >
       {/* Background Grid Overlay */}
       <div className="absolute inset-0 bg-[url('/grid.png')] bg-cover opacity-5 z-0" />
